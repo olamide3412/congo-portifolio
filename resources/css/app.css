@@ -1,0 +1,33 @@
+@import "@fortawesome/fontawesome-free/css/all.min.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.tabs-container {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    z-index: 10;
+}
+
+
+.animate-slide-in {
+    animation: slide-in 1s ease-out;
+}
+
+
+@keyframes slide-in {
+    from {
+        transform: translateX(-100%);
+    }
+    to {
+        transform: translateX(0);
+    }
+}
+
+body {
+    padding-top: 59px; /* Adjust this based on the height of your navbar */
+}
+
+
