@@ -50,7 +50,9 @@
         <!-- Copyright Section -->
         <div class=" flex justify-center mt-10">
             <div class="text-white">
-                <p class=" text-center">&copy; {{ date('Y') }} {{ config('app.name', 'Laravel') }}. @lang('messages.right_reserved') | <a href="https://www.linkedin.com/in/ola3412/" target="_blank" class="text-white hover:text-secondary-100">Developed By Skyway Tech</a></p>
+                <p class=" text-center">
+                    &copy; {{ date('Y') }} {{ config('app.name', 'Laravel') }}. @lang('messages.right_reserved') | <a href="https://www.instagram.com/skynetdigitalhubs?utm_source=qr&igsh=d3Znb3l1NHAzZHNq" target="_blank" class="text-white hover:text-secondary-100">Developed By Skynet Digital Hub</a>
+                </p>
             </div>
         </div>
     </div>
