@@ -22,7 +22,7 @@ class UserSeeder extends Seeder
             'phone_number' => '+243991471304',
             'user_type' => RoleEnum::SuperAdministrator,
             'email' => 'superadmin@gmail.com',
-            'password' => bcrypt('123456'),
+            'password' => bcrypt('Pass@1234'),
         ]);
 
         User::create([
@@ -33,7 +33,7 @@ class UserSeeder extends Seeder
             'phone_number' => '07016682945',
             'user_type' => RoleEnum::Administrator,
             'email' => 'admin@gmail.com',
-            'password' => bcrypt('123456'),
+            'password' => bcrypt('Pass@1234'),
             ]);
 
         User::create([
@@ -44,7 +44,7 @@ class UserSeeder extends Seeder
             'phone_number' => '08024004029',
             'user_type' => RoleEnum::Staff,
             'email' => 'lecturer@gmail.com',
-            'password' => bcrypt('123456'),
+            'password' => bcrypt('Pass@1234'),
             ]);
 
     }

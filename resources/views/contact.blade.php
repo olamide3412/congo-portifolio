@@ -21,7 +21,7 @@
                     <i class="fas fa-phone-alt text-secondary-500 text-4xl"></i>
                 </div>
                 <h3 class="text-2xl font-semibold mb-4">@lang('messages.phone_number')</h3>
-                <a href="tel:+243991471304" class="text-secondary-500">@lang('messages.call_us_at',['Phone' => '+243 991 471 304'])</a>
+                <a href="tel:+2439147304" class="text-secondary-500">@lang('messages.call_us_at',['Phone' => '+243 9147 304'])</a>
             </div>
 
             <!-- Address -->

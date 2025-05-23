@@ -14,7 +14,7 @@
               <a href="https://www.facebook.com/share/VVTDVnZXh2x3Lgbq/?mibextid=qi2Omg" target="_blank" class="hover:text-blue-500">  <i class="fa-brands fa-facebook "></i> </a>
               <a href="#" class="hidden hover:text-black" >  <i class="fa-solid fa-x"></i> </a>
               <a href="#" class="hidden hover:text-red-500">  <i class="fa-brands fa-youtube"></i> </a>
-              <a href="https://wa.me/243991471304" target="_blank"  class="hover:text-green-500">  <i class="fa-brands fa-whatsapp"></i> </a>
+              <a href="https://wa.me/2439147304" target="_blank"  class="hover:text-green-500">  <i class="fa-brands fa-whatsapp"></i> </a>
             </div>
         </div>
 
@@ -32,7 +32,7 @@
                 <h3 class="text-2xl font-semibold mb-4">@lang('messages.contact_us')</h3>
                 <div class="flex flex-col space-y-0  mb-4 md:mb-0">
                     <a href="https://maps.app.goo.gl/QbrAXYnLkTx274Zq9" target="_blank"  class="text-white hover:text-secondary-100">@lang('messages.address_visit')</a>
-                    <a href="tel:+243991471304"  class="text-white hover:text-secondary-100">Tel: +243 991 471 304</a>
+                    <a href="tel:+2439147304"  class="text-white hover:text-secondary-100">Tel: +243 9147 304</a>
                     <a href="mailto:support@dbrsarl.com" class="text-white hover:text-secondary-100">E-mail: support@dbrsarl.com</a>
                 </div>
             </div>
